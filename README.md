@@ -9,7 +9,7 @@ I'm 22 years old, I have a degree in Systems Analysis and Development and I have
 
 Recently, I have focused my studies on the Cypress framework, in order to explore new technologies and trends in the job market.
 
-I have some certifications such as: <a href="https://learn.microsoft.com/pt-br/users/eduardoberg-4638/credentials/f3d22f9bf2b3ce95">AZ-900</a> e <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+24-CTFL-13381-BR&field_certificado_nome_value=">CTFL</a> 
+I have some certifications such as: <a href="https://learn.microsoft.com/pt-br/users/eduardoberg-4638/credentials/f3d22f9bf2b3ce95">AZ-900</a> and <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+24-CTFL-13381-BR&field_certificado_nome_value=">CTFL</a> 
 
 
 
