@@ -1,22 +1,18 @@
-<h2 align="left">Hi 👋! My name is Eduardo and I'm a Quality Analyst from Brazil!</h2>
+<h2 align="center">Hi 👋! My name is Eduardo and I'm a Quality Analyst from Brazil!</h2>
 
 
-<p align="center"><img height="400px" widht="250px" src="programming.gif"></p>
+<p align="center"><img src="programming.gif"></p>
 
-### Sobre Mim
+### About Me
 
-Tenho 22 anos, sou graduado em Análise e Desenvolvimento de Sistemas e possuo 3 anos de experiência com automação de testes. Atualmente trabalho utilizando Robot Framework para automações de Web, Mobile e APIs. 
+I'm 22 years old, I have a degree in Systems Analysis and Development and I have 3 years of experience with test automation. I currently work using Robot Framework for Web, Mobile and API automations. 
 
-Recentemente, tenho focado meus estudos no framework Cypress, afim de explorar novas tecnologias e tendências do mercado de trabalho.
+Recently, I have focused my studies on the Cypress framework, in order to explore new technologies and trends in the job market.
 
-Possuo algumas certificações como: <a href="https://learn.microsoft.com/pt-br/users/eduardoberg-4638/credentials/f3d22f9bf2b3ce95">AZ-900</a> e <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+24-CTFL-13381-BR&field_certificado_nome_value=">CTFL</a> 
+I have some certifications such as: <a href="https://learn.microsoft.com/pt-br/users/eduardoberg-4638/credentials/f3d22f9bf2b3ce95">AZ-900</a> e <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+24-CTFL-13381-BR&field_certificado_nome_value=">CTFL</a> 
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duhberg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duhberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
 
 
@@ -39,7 +35,6 @@ Possuo algumas certificações como: <a href="https://learn.microsoft.com/pt-br/
 </div>
 
 ### Contact
-
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=duhberg@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -50,6 +45,14 @@ Possuo algumas certificações como: <a href="https://learn.microsoft.com/pt-br/
 </div>
 
 ###
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duhberg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duhberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+
 
 <br clear="both">
 
